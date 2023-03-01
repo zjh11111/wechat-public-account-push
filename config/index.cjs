@@ -34,9 +34,9 @@ const USER_CONFIG = {
       ],
       // 我们在一起已经有xxxx天了的配置
       customizedDateList: [
-        // 在一起的日子
+        // 今天是我们相识的的日子
         { keyword: 'love_day', date: '2022-09-10' },
-        // 见你的日子
+        // 今天是我们恋爱的日子
         { keyword: 'marry_day', date: '2022-12-04' },
       ],
     },
@@ -44,7 +44,7 @@ const USER_CONFIG = {
 
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: '7iePL0eiAMOiAC4RzsRkg-znnkJDS7daZ-W-2OGdYws',
+  CALLBACK_TEMPLATE_ID: '4n5DzzYbiLQlbP1WMXoT_b59ZWDqA4htMdfsKRua0mQ',
 
   CALLBACK_USERS: [
     {
